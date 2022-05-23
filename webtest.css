@@ -2,16 +2,51 @@ body {
     background-color: rgb(224, 223, 223);
 }
 
-.a {
+.nav {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     float: none;
-    outline: auto;
-    outline-style: groove;
-    outline-color: rgb(70, 66, 64);
-    padding: 2px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 30px;
+    padding: 20px;
+    background-image: url(hiks.jpg);
+   background-size: contain;
+
+}
+.nav h1 {
+    color: rgb(247, 247, 247);
+    text-shadow: 0 0 1px rgb(224, 16, 16), 0 -1px 1px rgb(203, 20, 20);
+    font-family: sans-serif;
+    font-size: 35px;
+   margin-bottom: 1px;
+}
+.ul {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    word-spacing: 60px;
+    font-size: x-large;
+    color: white;
+}
+.ul a:hover {
+    color: green;
+}
+.nav p {
+    font-family: sans-serif;
+    font-size: 10px;
+    text-decoration-line: underline;
+    color: rgb(235, 241, 236);
+}
+.d {
+    color: white;
 }
 
-.b {
-    
+.sect h2 {
+    text-align: center;
+    font-size: 30px;
+    color: dark;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.img1 {
+    height: 200px;
+    width: 30%;
+    margin-left: 35%;
 }
