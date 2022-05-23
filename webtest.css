@@ -1,2 +1,17 @@
+body {
+    background-color: rgb(224, 223, 223);
+}
 
+.a {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: none;
+    outline: auto;
+    outline-style: groove;
+    outline-color: rgb(70, 66, 64);
+    padding: 2px;
+}
 
+.b {
+    
+}
