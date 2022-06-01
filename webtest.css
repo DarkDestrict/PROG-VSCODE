@@ -103,17 +103,24 @@ text-decoration: dashed;
     position: relative;
     transition: all;
 }
+.h {
+    margin-left: 35px;
+}
+
 .form-bar {
     text-align: center;
 align-items: center;
 }
 .bar {
-    width: 400px;
-    height: 300px;
+    width: 130px;
+    height: 90px;
     border-radius: 30px;
+    padding-top: 2px;
+    margin: 0;
 }
 .btn {
     padding: 10px 0;
+    margin-top: 1px;
     background: transparent;
     background-color: rgb(31, 41, 31);
     border-radius: 20px;
@@ -122,3 +129,23 @@ align-items: center;
     cursor: pointer
 }
 
+.R {
+    padding-bottom: 1px;
+    margin: 0;
+}
+.Ra {
+    padding-bottom: 1px;
+    margin: 0;
+}
+.Rb {
+    padding-bottom: 1px;
+    margin: 0;
+}
+.Rc {
+    padding-bottom: 1px;
+    margin: 0;
+}
+.Rd {
+    padding-bottom: 1px;
+    margin: 0;
+}
